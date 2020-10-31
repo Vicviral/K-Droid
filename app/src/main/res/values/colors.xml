@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#46BBDC</color>
+    <color name="colorPrimaryDark">#f7f7f7</color>
+<!--    <color name="colorAccent">#FCD822</color>-->
+    <color name="colorAccent">#FCD822</color>
+    <color name="doctorBlue">#42A5F5</color>
+    <color name="background">#FFFFFF</color>
+    <color name="colorNegative">#008911</color>
+    <color name="colorPositive">#FF7B00</color>
+    <color name="colorDeath">#F40505</color>
+    <color name="colorBackgroundShade">#F7F7F7</color>
+    <color name="colorSelectedBackground">@color/colorPrimary</color>
+    <color name="errorColor">#D50000</color>
+
+</resources>

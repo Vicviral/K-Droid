@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">K Droid</string>
+    <string name="menu">menu</string>
+    <string name="hi_victor">Hi, Victor</string>
+    <string name="steps">Steps</string>
+    <string name="bot">Bot</string>
+    <string name="find">Find</string>
+    <string name="events">Events</string>
+    <string name="tracker">Covid Tracker</string>
+    <string name="global_visual_analytics">Global Visual Analytics</string>
+    <string name="view">View</string>
+    <string name="line">___________________________ ___ __</string>
+    <string name="states">States</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="tips">Health Tips</string>
+    <string name="home">Home</string>
+
+    <string name="developer">Victor Loveday</string>
+    <string name="ask_me_anything">Ask me anything...</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="hospital">Hospital</string>
+    <string name="centers">Centers</string>
+    <string name="shops">Shops</string>
+    <string name="test">Test</string>
+
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBoqc7asMDzYyZ-55CsAgWPTkf4jvE7IPY</string>
+    <string name="my_runs">My Runs</string>
+    <string name="statistics">Statistics</string>
+    <string name="settings">Settings</string>
+    <string name="all_infectios_deseases">All Infections or Diseases</string>
+    <string name="rest">Rest</string>
+
+</resources>
